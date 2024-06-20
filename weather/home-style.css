@@ -118,13 +118,6 @@ body {
   height: 60px; /* Change this to the desired height */
   margin-right: 10px;
 }
-
-.tempicon {
-  width: 100px;
-  height: 100px;
-  margin-right: 10px;
-}
-
 .temp-values {
   display: flex;
   flex-direction: column;
